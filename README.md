@@ -63,7 +63,7 @@ Questa repo template contiene una versione modificata del pacchetto `laravel/lar
 1. Aprire questa repository su github e cliccare sul pulsante `Use this template > Create a new repository`
 2. Clonare la repository appena creata su `VS Code`
 3. Aprire il `terminale`
-4. Copiare il file `.env.example` e rinominarlo in `.env`
+4. Copiare il file `.env.example` e rinominarlo in `.env` usando `cp .env.example .env`
 5. Eseguire il comando `composer install`
 6. Eseguire il comando `php artisan key:generate`
 7. Eseguire il comando `npm i` o `npm install`
