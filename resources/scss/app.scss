@@ -3,8 +3,12 @@
 
 body {
     //background-image: url("../img/duck.jpg");
-
+    background-color: black;
     h1 {
-        color: blue;
+        color: red;
+        text-transform: uppercase;
+    }
+    .card {
+        background-color: #fffdd0;
     }
 }
